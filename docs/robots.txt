@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://discord.dowon.monster
+
+# Sitemaps
+Sitemap: https://discord.dowon.monster/sitemap.xml
