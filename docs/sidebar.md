@@ -1,7 +1,7 @@
 - [안내](README.md)
 - [패치노트](update.md)
 - [자주 묻는 질문](question.md)
-- [봇 명령어]
+- 츠리 명령어
   - [프로필](cmd/profile.md)
   - [인벤토리](cmd/inventory.md)
   - [닉변](cmd/changenick.md)
@@ -14,4 +14,4 @@
   - [송금](cmd/givemoney.md)
   - [순위](cmd/ranking.md)
   - [상점](cmd/shop.md)
-- [개발자](developer.md)
+- [개발자 정보](developer.md)
