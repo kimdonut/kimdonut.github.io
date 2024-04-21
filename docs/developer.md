@@ -30,14 +30,12 @@
 
 **< 토큰으로 후원하기 >**
 
-```
 - [1,000원] 토큰 씨앗 - 900토큰
-ㄴ https://toss.me/donut/1000
+ - https://toss.me/donut/1000
 - [3,000원] 토큰 잎새 - 2,750토큰
-ㄴ https://toss.me/donut/3000
+ - https://toss.me/donut/3000
 - [5,000원] 토큰 나무 - 4,600토큰
-ㄴ https://toss.me/donut/5000
-```
+ - https://toss.me/donut/5000
 
 ### 후원 양식
 - 후원 완료 후 아래 양식을 작성해서 support@bot.dowon.monster 메일로 문의해 주시기 바랍니다. 메일 제목, 내용, 첨부파일이 모두 정확하게 입력되어야 빠른 처리가 가능합니다.
