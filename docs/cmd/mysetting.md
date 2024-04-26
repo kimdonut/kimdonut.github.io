@@ -18,4 +18,4 @@
 > -내설정 \
 > -내설정 상메 안녕하세요. \
 > -내설정 색상 #fcba03 \
-> -내설정 배너 https://discord.dowon.monster/file/츠리.jpg
+> -내설정 배너 https://imgur.com/img.jpg
