@@ -1,6 +1,5 @@
-- 공지사항
+- 공지사항(notice.md)
 - [패치노트](update_note.md)
-- 이용방법
 - [자주 묻는 질문](question.md)
 - 츠리 명령어
   - [프로필](cmd/profile.md)
