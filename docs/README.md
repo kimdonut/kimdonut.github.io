@@ -1,5 +1,5 @@
 # 츠리 봇
-!> 츠리 운영팀에서 프로젝트 매니저(PM) 부분을 모집하고 있습니다. 자세한 내용은 [이곳](https://naver.me/Fjc8ISzF)에서 확인해 주세요!
+!> 츠리 운영팀에서 프로젝트 매니저(PM)를 모집하고 있습니다. 자세한 내용과 지원은 [이곳](https://naver.me/Fjc8ISzF)에서 확인해 주세요!
 ## 안내
 - 츠리는 MZ세대를 대상으로 가상 코인을 이용한 아케이드 게임을 지원하는 Discord 챗봇입니다.
 - 봇 초대 및 이용 시 츠리의 [이용약관](https://bot.dowon.monster/#/terms)과 [개인정보처리 방침](https://bot.dowon.monster/#/privacy)에 동의하는 것으로 간주됩니다.
