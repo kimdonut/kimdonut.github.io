@@ -1,6 +1,8 @@
 - [패치노트](update_note.md)
 - [자주 묻는 질문](question.md)
 - 츠리 명령어
+  - [**[NEW]** 왕게임](cmd/kinggame.md)
+  - [**[NEW]** 라이어게임](cmd/liargame.md)
   - [프로필](cmd/profile.md)
   - [인벤토리](cmd/inventory.md)
   - [닉변](cmd/changenick.md)
