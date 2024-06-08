@@ -15,4 +15,5 @@
   - [송금](cmd/givemoney.md)
   - [순위](cmd/ranking.md)
   - [상점](cmd/shop.md)
+  - [토큰상점](cmd/token_shop.md)
 - [개발자 정보](developer.md)
