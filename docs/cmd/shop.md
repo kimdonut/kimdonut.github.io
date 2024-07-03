@@ -10,3 +10,5 @@
 > -상점 인벤토리 \
 > . \
 > .
+
+![명령어:상점](https://bot.dowon.monster/file/no_image.jpg)
