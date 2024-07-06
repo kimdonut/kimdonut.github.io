@@ -20,6 +20,6 @@
 > -왕게임 결과 \
 > -왕게임 초기화
 
-![명령어:왕게임](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:왕게임](https://bot.dowon.monster/file/img/kinggame.gif)
 
 ?> 츠리는 게임 진행을 위한 준비까지만 도와드리며, 게임 진행은 각 서버의 진행자가 진행합니다. 자세한 게임 방식은 구글과 네이버에서 검색을 통해 다양한 방식으로 구상할 수 있습니다.
