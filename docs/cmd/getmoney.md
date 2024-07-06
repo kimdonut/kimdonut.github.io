@@ -8,4 +8,4 @@
 
 > -먹이받기
 
-![명령어:먹이받기](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:먹이받기](https://bot.dowon.monster/file/img/getmoney.gif)
