@@ -19,4 +19,4 @@
 > **# 불가한 닉네임 예시** \
 > `ㅇㅇ`, `dd`, `걁뱛뜛`, `<츠리>`, `츠리!`, `츠리2`, `Test2`, `123`
 
-![명령어:닉변](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:닉변](https://bot.dowon.monster/file/img/changenick.gif)
