@@ -8,4 +8,4 @@
 
 > -먹이지원
 
-![명령어:먹이지원](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:먹이지원](https://bot.dowon.monster/file/img/supportmoney.gif)
