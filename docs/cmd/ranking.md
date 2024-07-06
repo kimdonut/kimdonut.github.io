@@ -11,4 +11,4 @@
 > -순위 인기도 \
 > -순위 레벨
 
-![명령어:순위](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:순위](https://bot.dowon.monster/file/img/ranking.gif)
