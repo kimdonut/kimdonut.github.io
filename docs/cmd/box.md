@@ -18,4 +18,4 @@
 > -상자 고급 3 \
 > -상자 스페셜 1
 
-![명령어:상자](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:상자](https://bot.dowon.monster/file/img/box.gif)
