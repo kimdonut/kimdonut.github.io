@@ -15,4 +15,4 @@
 > -인벤토리 \
 > -인벤토리 츠리
 
-![명령어:인벤토리](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:인벤토리](https://bot.dowon.monster/file/img/inventory.gif)
