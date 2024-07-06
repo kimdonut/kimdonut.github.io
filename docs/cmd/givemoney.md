@@ -9,4 +9,4 @@
 
 > -선물 츠리 3000
 
-![명령어:선물](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:선물](https://bot.dowon.monster/file/img/givemoney.gif)
