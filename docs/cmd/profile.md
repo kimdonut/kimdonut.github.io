@@ -9,4 +9,4 @@
 > -프로필 \
 > -프로필 츠리
 
-![명령어:프로필](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:프로필](https://bot.dowon.monster/file/img/profile.gif)
