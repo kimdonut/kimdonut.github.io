@@ -21,4 +21,4 @@
 > -먹이 절반 \
 > -먹이 최대
 
-![명령어:먹이](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:먹이](https://bot.dowon.monster/file/img/betting.gif)
