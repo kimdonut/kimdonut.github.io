@@ -11,4 +11,4 @@
 > . \
 > .
 
-![명령어:상점](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:상점](https://bot.dowon.monster/file/img/shop.gif)
