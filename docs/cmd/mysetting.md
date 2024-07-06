@@ -22,4 +22,4 @@
 
 ?> 배너 설정은 후원자 전용 특전입니다.
 
-![명령어:내설정](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:내설정](https://bot.dowon.monster/file/img/mysetting.gif)
