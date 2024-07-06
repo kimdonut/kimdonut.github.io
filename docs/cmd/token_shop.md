@@ -10,7 +10,7 @@
 > . \
 > .
 
-![명령어:토큰상점](https://bot.dowon.monster/file/no_image.jpg)
+![명령어:토큰상점](https://bot.dowon.monster/file/img/token_shop.gif)
 
 > 토큰상점의 기프티콘 목록입니다.
-![기프티콘](https://bot.dowon.monster/file/img/token_shop.gif)
+![기프티콘](https://bot.dowon.monster/file/gift_list.png)
