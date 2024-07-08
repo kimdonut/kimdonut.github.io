@@ -11,7 +11,7 @@
   - [내설정](cmd/mysetting.md)
   - [먹이받기](cmd/getmoney.md)
   - [먹이지원](cmd/supportmoney.md)
-  - [먹이](cmd/betting.md)
+  - [먹이](cmd/foodgame.md)
   - [상자](cmd/box.md)
   - [선물](cmd/givemoney.md)
   - [순위](cmd/ranking.md)
