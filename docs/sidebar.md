@@ -1,8 +1,11 @@
-- [패치노트](update_note.md)
-- [자주 묻는 질문](question.md)
-- 뉴비 가이드 (준비중)
-- [츠리와 함께해요!](recruit.md)
+- 츠리 소식
+
+  - [패치노트](update_note.md)
+  - [자주 묻는 질문](question.md)
+  - [츠리와 함께해요!](recruit.md)
+
 - 봇 명령어
+
   - [**[NEW]** 왕게임](cmd/kinggame.md)
   - [**[NEW]** 라이어게임](cmd/liargame.md)
   - [프로필](cmd/profile.md)
@@ -17,4 +20,6 @@
   - [순위](cmd/ranking.md)
   - [상점](cmd/shop.md)
   - [토큰상점](cmd/token_shop.md)
-- [개발자 정보](developer.md)
+
+- 봇 개발자
+  - [eh_won](developer.md)
